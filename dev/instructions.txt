@@ -1,0 +1,2 @@
+1. Create a DEV folder on the root of your WordPress directory.
+2. Break up the dev-styles.css file into 3 more sub-CSS files.
